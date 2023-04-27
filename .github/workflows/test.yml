@@ -106,4 +106,4 @@ jobs:
             console.log('✔️ All tests passed!');
           END_SCRIPT
       - name: Run test file
-		run: node test.js
+        run: node test.js
